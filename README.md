@@ -11,6 +11,8 @@ It's created by the creator of nodejs(so it's gotta be good).
 brew install deno
 ```
 
+[Look at small_api for an api example](./small-api)
+
 ### [Deno manual](https://deno.land/std/manual.md#feature-highlights)
 
 ### [Awesome Deno links](https://github.com/denolib/awesome-deno)
